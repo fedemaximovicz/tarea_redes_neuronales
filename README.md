@@ -2,7 +2,7 @@
 ## Consigna
 La consigna de esta actividad era de seleccionar uno de los ejemplos presentes en el documento presentado en clase sobre Redes Neuronales y explicar que hace, también se permitía buscar por cuenta propia una Red Neuronal.
 
-Para esta actividad decidí buscar una Red Neuronal por mi cuenta ya que busqué algo lo suficientemente simple para poder correr en mi computadora. La red neuronal que elegí fue una red neuronal convolucional para reconocimiento de imágenes, para ello seguí el siguiente tutorial del canal **Neuralnine**:
+Para esta actividad decidí buscar una Red Neuronal por mi cuenta ya que busqué algo lo suficientemente simple para poder correr en mi computadora. La red neuronal que elegí fue una **red neuronal convolucional** para reconocimiento de imágenes, para ello seguí el siguiente tutorial del canal **Neuralnine**:
 https://www.youtube.com/watch?v=CtzfbUwrYGI
 
 La Red Neuronal implementada permite el reconocimiento de imágenes, está diseñada para reconocer:
